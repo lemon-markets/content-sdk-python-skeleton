@@ -23,8 +23,8 @@ Not interested in reading a novella before you get started? We get it! To get th
 This project uses the [lemon.markets API](https://www.lemon.markets/en-de/for-developers) and the lemon.markets Python SDK.
 
 lemon.markets is a brokerage API by developers for developers that allows you to build your own experience at the stock market. 
-We will use the Market Data API and Trading API to retrieve the ISIN (unique identifier) that belongs to a particular 
-financial instrument and to place trades. If you do not have a lemon.markets account yet, you can sign up at [lemon.markets](https://www.lemon.markets/).
+We will use the Market Data API and Trading API to show you the results you receive when you make calls to the venues, account, and trades endpoints.
+If you do not have a lemon.markets account yet, you can sign up at [lemon.markets](https://www.lemon.markets/).
 
 ## ⚙️ Configuration
 
